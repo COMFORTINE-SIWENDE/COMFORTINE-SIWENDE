@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @COMFORTINE-SIWENDE
-- 👀 I’m interested in becoming both a full stack software and a data scientist ..
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on python data scientist and software Engineer...
-- 📫 How to reach me Email: comsiwende@gmail.com...
+- 👋 Hi, I’m Comfortine Siwende 
+- 👀 Currently interested in AI Engineering and Data Science
+- 🌱 I’m currently learning Genertive AI
+- 💞️ I’m looking to collaborate on data science and LLM
+- 📫 How to reach me Email: comsiwende@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I often blend creativity with technical skills!!
 
 <!---
 COMFORTINE-SIWENDE/COMFORTINE-SIWENDE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
