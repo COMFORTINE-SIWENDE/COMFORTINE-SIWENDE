@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Comphortine Siwende
 
-<!--
-**COMFORTINE-SIWENDE/COMFORTINE-SIWENDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Enthusiast | Django REST Developer
+- 🌱 I’m currently working on **AI Innovation and Django Projects**
+- 🚀 I’m currently learning **LangChain, AzureOpenAI, and AI integration into software applications**
+- 💬 Ask me about **Gen aI,Deep learning React Native, Django REST**
+- 📫 How to reach me: [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/comfortine-siwende-a56537289/))
+- ⚡ Fun fact: **I love building AI-powered applications**
 
-Here are some ideas to get you started:
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/comfortine-siwende-a56537289/))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages and Tools:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+## GitHub Stats:
