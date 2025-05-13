@@ -1,10 +1,10 @@
 # Hi 👋, I'm Comphortine Siwende | comsiwende@gmail.com
 
 ## AI Enthusiast | Django REST Developer
-- 🌱 I’m currently working on **AI Innovation and Django Projects**
-- 🚀 I’m currently learning **LangChain, AzureOpenAI, and AI integration into software applications**
-- 💬 Ask me about **Gen aI,Deep learning React Native, Django REST**
-- ⚡ Fun fact: **I love building AI-powered applications**
+- 🌱 I’m currently working on **AI Innovation and Crafting systems using LangGraph and Langchain **
+- 🚀 I’m currently learning **LangGraph, AzureOpenAI, and AI integration into software applications**
+- 💬 Ask me about **Gen aI,Deep learning React Native, Django REST and LangGraph**
+- ⚡ Fun fact: **I love building Multi-Agent applications**
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
